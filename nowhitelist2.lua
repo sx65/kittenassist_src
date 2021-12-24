@@ -2779,7 +2779,7 @@ do
 
         --// LABELS
 		anotherTab:AddLabel("Credits")
-		anotherTab:AddLabel("DX15/HAPPY and Evan/blood for scripting")
+		anotherTab:AddLabel("DX15/HAPPY and Evan/blood Aix/Aiden for scripting")
 		anotherTab:AddLabel("Singularity for UI Library")
 		anotherTab:AddLabel("Thanks To KiriotHub")
 		anotherTab:AddLabel("Right Shift to toggle the GUI")
